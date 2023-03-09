@@ -1,0 +1,13 @@
+.body {
+    margin-top: 100px;
+}
+
+.form{
+    background-color: rgb(190, 190, 190);
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.btn.btn-danger{
+    margin-bottom: 30px;
+}

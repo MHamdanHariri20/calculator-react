@@ -1,0 +1,31 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 40px;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='800' preserveAspectRatio='none' viewBox='0 0 1440 800'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1612%26quot%3b)' fill='none'%3e%3crect width='1440' height='800' x='0' y='0' fill='url(%23SvgjsLinearGradient1613)'%3e%3c/rect%3e%3cpath d='M681.55-101.65C582.13-63.31 672.62 198.09 424.96 238.7 177.3 279.31 60.47 531.58-88.23 542.7' stroke='rgba(255%2c 255%2c 255%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3cpath d='M1352.01-96.19C1107.25-39.51 1016.93 605.11 639.32 612.31 261.71 619.51 112.22 406.42-73.37 404.31' stroke='rgba(255%2c 255%2c 255%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3cpath d='M868.12-39.8C688.42 26.05 650.09 558.19 398.15 564.49 146.21 570.79 59.93 331.3-71.82 324.49' stroke='rgba(255%2c 255%2c 255%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3cpath d='M1230.06-106.66C1049.7-20.54 1051.17 537.27 790.7 561.27 530.23 585.27 571.02 461.27 351.34 461.27 131.66 461.27 24.63 560.64-88.02 561.27' stroke='rgba(255%2c 255%2c 255%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3cpath d='M641.67-15.21C555.25 0.7 614.9 194.08 378.49 217.77 142.08 241.46 2.77 503.85-147.87 513.77' stroke='rgba(255%2c 255%2c 255%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1612'%3e%3crect width='1440' height='800' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='11.11%25' y1='-20%25' x2='88.89%25' y2='120%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1613'%3e%3cstop stop-color='%230e2a47' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(150%2c 196%2c 255%2c 1)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e");
+}
+.table{
+    background-color: rgb(247, 247, 247);
+    box-shadow: 0 0 10px 0 rgb(255, 255, 255);
+    width: 100%;
+    border-radius: 10px;
+}
+
+.table tbody tr th{
+    padding: 40px 0 0 20px;
+    font-weight: 500;
+}
+
+.table tbody tr th button{
+   margin-top: -5px;
+}
+
+.table thead tr th{
+    padding: 12px 20px 12px 15px;
+}
+
+.btn.btn-primary{
+    margin: 0 0 30px 0;
+}
+
+
